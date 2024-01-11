@@ -12,6 +12,7 @@ Useful link:
 
 # Run a build
 From this repository folder just run:
-``` 
+```
+mkdir build layers
 kas build kas rpi4.yml
 ```
